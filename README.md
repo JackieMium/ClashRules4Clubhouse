@@ -4,7 +4,7 @@ Clubhouse 代理规则，适用于 Clash。两条规则需同时添加搭配使�
 
 - `Clubhouse-PROXY.list` 解决软件无法使用问题
 
-- `Clubhouse_DIRECT.list` 解决进入进入没有声音问题
+- `Clubhouse-DIRECT.list` 解决进入进入没有声音问题
 
 # 使用
 
