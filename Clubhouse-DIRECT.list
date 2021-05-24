@@ -1,8 +1,8 @@
 # > Clubhouse-DIRECT
-HOST, ap-oversea-tls.agora.io, direct
-HOST, ap-oversea.agora.io, direct
-HOST, ap-oversea2.agora.io, direct
-HOST, report-oversea.agora.io, direct
+DOMAIN-SUFFIX, ap-oversea-tls.agora.io, direct
+DOMAIN-SUFFIX, ap-oversea.agora.io, direct
+DOMAIN-SUFFIX, ap-oversea2.agora.io, direct
+DOMAIN-SUFFIX, report-oversea.agora.io, direct
 IP-CIDR, 3.0.163.78/32, direct
 IP-CIDR, 13.230.60.35/32, direct
 IP-CIDR, 23.248.191.103/32, direct
