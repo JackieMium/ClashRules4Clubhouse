@@ -1,7 +1,7 @@
 # > Clubhouse-PROXY
-DOMAIN-SUFFIX,clubhouse.com,Clubhouse-PROXY
-DOMAIN-SUFFIX,clubhouseapi.com,Clubhouse-PROXY
-DOMAIN-SUFFIX,joinclubhouse.com,Clubhouse-PROXY
-DOMAIN-SUFFIX,pubnub.com,Clubhouse-PROXY
-DOMAIN-SUFFIX,amplitude.com,Clubhouse-PROXY
-DOMAIN,clubhouseprod.s3.amazonaws.com,Clubhouse-PROXY 
+- DOMAIN-SUFFIX,clubhouse.com,Clubhouse-PROXY
+- DOMAIN-SUFFIX,clubhouseapi.com,Clubhouse-PROXY
+- DOMAIN-SUFFIX,joinclubhouse.com,Clubhouse-PROXY
+- DOMAIN-SUFFIX,pubnub.com,Clubhouse-PROXY
+- DOMAIN-SUFFIX,amplitude.com,Clubhouse-PROXY
+- DOMAIN,clubhouseprod.s3.amazonaws.com,Clubhouse-PROXY 
